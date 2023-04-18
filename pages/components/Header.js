@@ -1,6 +1,6 @@
 import Image from "next/image"
 import { useRouter } from "next/router"
-import logo from '../assets/hulu.png'
+import logo from '../../assets/hulu.png'
 import HeaderItem from "./HeaderItem"
 import {HomeIcon , BadgeCheckIcon,CollectionIcon,LightningBoltIcon,SearchIcon,UserIcon} from "@heroicons/react/outline"
 
